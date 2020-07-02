@@ -3,5 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "update-lockfile"
+  "rangeStrategy": "update-lockfile",
+  "prHourlyLimit": 0
 }
