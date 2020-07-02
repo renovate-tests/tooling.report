@@ -4,7 +4,7 @@
   "main": "bundled.min.js",
   "source": "index.js",
   "devDependencies": {
-    "@actions/core": "^1.2.2",
+    "@actions/core": "^1.2.4",
     "@actions/exec": "^1.0.3",
     "@actions/github": "^2.1.1",
     "microbundle": "^0.12.0-next.8"
